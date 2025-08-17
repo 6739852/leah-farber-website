@@ -1,47 +1,57 @@
-# אתר תדמית - לאה פרבר רואת חשבון
+# Leah Farber - Certified Public Accountant
 
-אתר תדמית מקצועי ללאה פרבר, רואת חשבון מוסמכת עם ניסיון רב שנים.
+🌐 **Live Website:** [https://6739852.github.io/leah-farber-website/](https://6739852.github.io/leah-farber-website/)
 
-## תכונות האתר
+A professional portfolio website for Leah Farber, a certified public accountant with years of experience in accounting and taxation services.
 
-✨ **עיצוב מקצועי ומרשים**
-- עיצוב רספונסיבי לכל המכשירים
-- אנימציות חלקות ואלגנטיות
-- ערכת צבעים מקצועית
+## Features
 
-🎯 **תוכן מותאם**
-- מידע על השירותים המוצעים
-- פרטי יצירת קשר
-- סטטיסטיקות מרשימות
+✨ **Professional Design**
+- Responsive design for all devices
+- Smooth and elegant animations
+- Professional color scheme
+- Modern UI/UX
 
-📱 **טכנולוגיות**
+🎯 **Tailored Content**
+- Comprehensive service information
+- Contact details and business hours
+- Professional statistics and credentials
+- Client testimonials section
+
+📱 **Technologies Used**
 - HTML5
-- CSS3 עם אנימציות מתקדמות
-- JavaScript לאינטראקטיביות
-- Font Awesome לאייקונים
-- Google Fonts לטיפוגרפיה
+- CSS3 with advanced animations
+- JavaScript for interactivity
+- Font Awesome icons
+- Google Fonts typography
+- GitHub Pages deployment
 
-## השירותים באתר
+## Services Offered
 
-- **ניהול ספרי חשבונות** - ניהול מלא ומקצועי
-- **דוחות כספיים** - הכנת דוחות מדויקים
-- **ייעוץ מס** - ייעוץ מקצועי ותכנון מס
-- **שכר עובדים** - ניהול שכר ודיווחים
+- **Bookkeeping** - Complete and professional management
+- **Financial Reports** - Accurate report preparation
+- **Tax Consulting** - Professional advice and tax planning
+- **Payroll Management** - Salary management and reporting
 
-## איך לערוך את האתר
+## How to Edit
 
-1. ערוך את קובץ `index.html` לשינוי התוכן
-2. ערוך את קובץ `style.css` לשינוי העיצוב
-3. עדכן את פרטי יצירת הקשר בסקציית הקונטקט
+1. Edit `index.html` to modify content
+2. Edit `style.css` to change styling
+3. Update contact information in the contact section
+4. Push changes to GitHub for automatic deployment
 
-## פרטי קשר לעדכון
+## Contact Information
 
-עדכן את הפרטים הבאים באתר:
-- מספר טלפון
-- כתובת אימייל
-- כתובת פיזית
-- שעות פעילות
+Update the following details in the website:
+- Phone number
+- Email address
+- Physical address
+- Business hours
+
+## Deployment
+
+This website is automatically deployed to GitHub Pages when changes are pushed to the main branch.
 
 ---
 
-**פותח עבור לאה פרבר - רואת חשבון מוסמכת**
+**Developed for Leah Farber - Certified Public Accountant**
